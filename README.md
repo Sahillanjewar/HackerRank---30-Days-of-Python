@@ -9,6 +9,8 @@ The coding problems in this repository are sourced from HackerRank, a widely use
 
 Purpose of This Repository
 
+In this challenge, we review some basic concepts that will get you started with this series. You will need to use the same (or similar) syntax to read input and write output in challenges throughout HackerRank.
+
 The primary goals of maintaining this repository include improving logical thinking, strengthening programming fundamentals, and preparing for technical interviews. It also serves as a public record of consistent coding practice and skill development.
 
 
